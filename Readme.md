@@ -1,6 +1,6 @@
 # Cron PHP Parameters
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/blackbird/module-cron-php-parameters.svg?style=flat-square)](https://packagist.org/packages/blackbird/module-cron-php-parameters)
+[![Latest Stable Version](https://img.shields.io/packagist/v/blackbird/cronparameters.svg?style=flat-square)](https://packagist.org/packages/blackbird/cronparameters)
 [![License: MIT](https://img.shields.io/github/license/blackbird-agency/magento-2-cron-php-parameters.svg?style=flat-square)](./LICENSE)
 
 This module allows you to add php parameters on magento 2 cron install.
@@ -17,7 +17,7 @@ Unzip the package in app/code/Blackbird/CronParameters, from the root of your Ma
 **Composer Package:**
 
 ```
-composer require blackbird/module-cron-php-parameters
+composer require blackbird/cronparameters
 ```
 
 ### Install the module
