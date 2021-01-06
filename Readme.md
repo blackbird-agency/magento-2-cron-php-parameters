@@ -50,8 +50,8 @@ php bin/magento cron:install --params="-d max_execution_time=xxx"
 
 ## Support
 
-- If you have any issue with this code, feel free to [open an issue](https://github.com/blackbird-agency/magento-2-magento-2-cron-php-parameters/issues/new).
-- If you want to contribute to this project, feel free to [create a pull request](https://github.com/blackbird-agency/magento-2-magento-2-cron-php-parameters/compare).
+- If you have any issue with this code, feel free to [open an issue](https://github.com/blackbird-agency/magento-2-cron-php-parameters/issues/new).
+- If you want to contribute to this project, feel free to [create a pull request](https://github.com/blackbird-agency/magento-2-cron-php-parameters/compare).
 
 ## Contact
 
