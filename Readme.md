@@ -1,4 +1,4 @@
-# Catalog Default Qty
+# Cron PHP Parameters
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/blackbird/module-cron-php-parameters.svg?style=flat-square)](https://packagist.org/packages/blackbird/module-cron-php-parameters)
 [![License: MIT](https://img.shields.io/github/license/blackbird-agency/magento-2-cron-php-parameters.svg?style=flat-square)](./LICENSE)
@@ -41,7 +41,7 @@ php bin/magento cron:install --params="-d max_execution_time=xxx"
 
 - or with `-p`
 ```
-php bin/magento cron:install --params="-d max_execution_time=xxx"
+php bin/magento cron:install -p="-d max_execution_time=xxx"
 ```
 - **Results in something like:** (by running `crontab -l`)
 ```
