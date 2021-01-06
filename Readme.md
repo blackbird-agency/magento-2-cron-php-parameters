@@ -62,7 +62,7 @@ For further information, contact us:
 
 ## Authors
 
-- **Bruno Fache** - *Maintainer* - [It's me!](https://github.com/BrunoBlackbird)
+- **Bruno Fache** - *Maintainer* - [It's me!](https://github.com/bruno-blackbird)
 - **Blackbird Team** - *Contributor* - [They're awesome!](https://github.com/blackbird-agency)
 
 ## Licence
