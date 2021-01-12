@@ -9,7 +9,7 @@
  * to contact@bird.eu so we can send you a copy immediately.
  *
  * @category        Blackbird
- * @package         Blackbird_CatalogDefaultQty
+ * @package         Blackbird_CronParameters
  * @copyright       Copyright (c) Blackbird (https://black.bird.eu)
  * @author          Blackbird Team
  * @license         MIT
