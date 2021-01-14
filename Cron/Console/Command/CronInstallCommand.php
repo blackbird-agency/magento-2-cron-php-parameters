@@ -60,7 +60,9 @@ class CronInstallCommand extends \Magento\Cron\Console\Command\CronInstallComman
     protected function execute(InputInterface $input, OutputInterface $output)
     {
         $params = $input->getOption(self::COMMAND_OPTION_PARAMS);
-        $params = substr($params, 1);
+        if ($params !== '' && $params[0] === '=') {
+            $params = substr($params, 1);
+        }
 
         if ($params) {
             $tasks = $this->tasksProvider->getTasks();
