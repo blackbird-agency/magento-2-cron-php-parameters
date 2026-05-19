@@ -54,10 +54,10 @@ class CronInstallCommand extends \Magento\Cron\Console\Command\CronInstallComman
     /**
      * @param InputInterface $input
      * @param OutputInterface $output
-     * @return int|null
+     * @return int
      * @throws \Magento\Framework\Exception\LocalizedException
      */
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output):int
     {
         $params = $input->getOption(self::COMMAND_OPTION_PARAMS);
         if (isset($params[0]) && $params[0] === '=') {
